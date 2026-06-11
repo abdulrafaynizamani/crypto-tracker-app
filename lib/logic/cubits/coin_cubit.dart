@@ -13,7 +13,7 @@ class CoinCubit extends Cubit<CoinState> {
     try {
       final box = Hive.box('coinsBox');
 
-      // await box.clear();
+      await box.clear();
 
       if (box.isNotEmpty) {
         final cachedCoins = box.values.cast<CoinModel>().toList();

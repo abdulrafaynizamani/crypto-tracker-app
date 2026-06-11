@@ -12,6 +12,7 @@ void main() async {
   await Hive.initFlutter();
   Hive.registerAdapter(CoinModelAdapter());
   await Hive.openBox('coinsBox');
+  await Hive.openBox('settingsBox');
   runApp(const MainApp());
 }
 
