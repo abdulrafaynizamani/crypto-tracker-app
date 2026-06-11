@@ -16,3 +16,12 @@ A real-time cryptocurrency tracking mobile application built with Flutter, desig
 * **Local Storage:** Hive
 * **Networking:** REST APIs
 * **UI & Visuals:** FL Charts
+
+* ## Screenshots
+* <img src="screenshots\Screenshot_1781161203.png" width=300>
+* <img src="screenshots\Screenshot_1781161212.png" width=300>
+* <img src="screenshots\Screenshot_1781161215.png" width=300>
+* <img src="screenshots\Screenshot_1781161221.png" width=300>
+<img src="screenshots\Screenshot_1781161232.png" width=300>
+<img src="screenshots\Screenshot_1781161242.png" width=300>
+<img src="screenshots\Screenshot_1781161537.png" width=300>
